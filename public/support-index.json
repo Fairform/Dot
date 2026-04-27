@@ -1,0 +1,892 @@
+[
+  {
+    "slug": "what-is-dot-mobile",
+    "category": "more-about-dot-mobile",
+    "categoryTitle": "More about DOT Mobile",
+    "title": "What is DOT Mobile?",
+    "description": "DOT Mobile is an Australian eSIM-only mobile carrier built for digital-first customers. No stores, no plastic SIM.",
+    "url": "/support/more-about-dot-mobile/what-is-dot-mobile",
+    "tags": [
+      "what is",
+      "about",
+      "dot mobile",
+      "overview"
+    ]
+  },
+  {
+    "slug": "who-is-dot-mobile-for",
+    "category": "more-about-dot-mobile",
+    "categoryTitle": "More about DOT Mobile",
+    "title": "Who is DOT Mobile for?",
+    "description": "DOT Mobile is built for anyone who wants a simple, digital, contract-free mobile service — especially Gen Z, diaspora communities, and remote workers.",
+    "url": "/support/more-about-dot-mobile/who-is-dot-mobile-for",
+    "tags": [
+      "target audience",
+      "who",
+      "for whom",
+      "suitable"
+    ]
+  },
+  {
+    "slug": "what-network-do-we-use",
+    "category": "more-about-dot-mobile",
+    "categoryTitle": "More about DOT Mobile",
+    "title": "What network does DOT Mobile use?",
+    "description": "DOT Mobile operates on the Telstra wholesale mobile network — 4G and 5G across 98.5% of Australia.",
+    "url": "/support/more-about-dot-mobile/what-network-do-we-use",
+    "tags": [
+      "network",
+      "telstra",
+      "coverage",
+      "5G"
+    ]
+  },
+  {
+    "slug": "esim-only-explained",
+    "category": "more-about-dot-mobile",
+    "categoryTitle": "More about DOT Mobile",
+    "title": "Why DOT Mobile is eSIM-only",
+    "description": "We chose eSIM because it is faster, greener, and more secure than a physical SIM. No waiting, no plastic.",
+    "url": "/support/more-about-dot-mobile/esim-only-explained",
+    "tags": [
+      "esim only",
+      "why esim",
+      "digital sim",
+      "no physical sim"
+    ]
+  },
+  {
+    "slug": "how-dot-mobile-works",
+    "category": "more-about-dot-mobile",
+    "categoryTitle": "More about DOT Mobile",
+    "title": "How DOT Mobile works",
+    "description": "Choose a plan, verify your identity, pay, scan your QR code — you are live in minutes. No store visit required.",
+    "url": "/support/more-about-dot-mobile/how-dot-mobile-works",
+    "tags": [
+      "how it works",
+      "process",
+      "sign up",
+      "overview"
+    ]
+  },
+  {
+    "slug": "how-to-sign-up",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "How to sign up for DOT Mobile",
+    "description": "A step-by-step walkthrough of the sign-up process, from choosing a plan to your first connection.",
+    "url": "/support/sign-up-and-activation/how-to-sign-up",
+    "tags": [
+      "sign up",
+      "getting started",
+      "new customer",
+      "activation"
+    ]
+  },
+  {
+    "slug": "what-you-need-before-signing-up",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "What you need before signing up",
+    "description": "Make sure you have everything ready before you start — device, ID, and payment details.",
+    "url": "/support/sign-up-and-activation/what-you-need-before-signing-up",
+    "tags": [
+      "requirements",
+      "checklist",
+      "getting started"
+    ]
+  },
+  {
+    "slug": "how-identity-verification-works",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "How identity verification works",
+    "description": "Why we verify your identity, what documents are accepted, and how the process works.",
+    "url": "/support/sign-up-and-activation/how-identity-verification-works",
+    "tags": [
+      "identity",
+      "verification",
+      "ID",
+      "KYC"
+    ]
+  },
+  {
+    "slug": "keep-your-number",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "How to keep your existing mobile number",
+    "description": "Transfer your current mobile number to DOT Mobile during sign-up. Here is exactly how it works and what to expect.",
+    "url": "/support/sign-up-and-activation/keep-your-number",
+    "tags": [
+      "number port",
+      "keep number",
+      "transfer",
+      "MNP"
+    ]
+  },
+  {
+    "slug": "get-a-new-number",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "Get a new mobile number",
+    "description": "Choosing to receive a new number instead of porting? Here is what happens and how numbers are assigned.",
+    "url": "/support/sign-up-and-activation/get-a-new-number",
+    "tags": [
+      "new number",
+      "phone number"
+    ]
+  },
+  {
+    "slug": "why-number-transfer-can-fail",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "Why a number transfer can fail",
+    "description": "Common reasons a port-in fails and what to do if yours does not complete on time.",
+    "url": "/support/sign-up-and-activation/why-number-transfer-can-fail",
+    "tags": [
+      "port fail",
+      "number transfer",
+      "troubleshooting"
+    ]
+  },
+  {
+    "slug": "how-long-does-activation-take",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "How long does activation take?",
+    "description": "eSIM delivery is usually within 5 minutes of payment. Number porting takes 1 to 2 business days.",
+    "url": "/support/sign-up-and-activation/how-long-does-activation-take",
+    "tags": [
+      "activation time",
+      "how long",
+      "wait time"
+    ]
+  },
+  {
+    "slug": "what-happens-after-payment",
+    "category": "sign-up-and-activation",
+    "categoryTitle": "Sign up and Activation",
+    "title": "What happens after payment",
+    "description": "From payment confirmation to live service — what happens behind the scenes after you complete checkout.",
+    "url": "/support/sign-up-and-activation/what-happens-after-payment",
+    "tags": [
+      "after payment",
+      "next steps",
+      "activation"
+    ]
+  },
+  {
+    "slug": "what-is-an-esim",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "What is an eSIM?",
+    "description": "An eSIM is a digital SIM card built into your phone. No plastic, no shipping — activate instantly.",
+    "url": "/support/esim-and-devices/what-is-an-esim",
+    "tags": [
+      "esim",
+      "digital sim",
+      "what is"
+    ]
+  },
+  {
+    "slug": "how-to-install-your-esim",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "How to install your eSIM",
+    "description": "Step-by-step guide to installing your DOT Mobile eSIM on any compatible device using the QR code.",
+    "url": "/support/esim-and-devices/how-to-install-your-esim",
+    "tags": [
+      "install",
+      "esim",
+      "qr code",
+      "setup",
+      "activation"
+    ]
+  },
+  {
+    "slug": "device-compatibility",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "Device compatibility",
+    "description": "Check whether your iPhone, Android, or Samsung device supports eSIM activation on DOT Mobile.",
+    "url": "/support/esim-and-devices/device-compatibility",
+    "tags": [
+      "compatible devices",
+      "iphone",
+      "android",
+      "samsung",
+      "esim support"
+    ]
+  },
+  {
+    "slug": "install-esim-on-iphone",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "How to install your eSIM on iPhone",
+    "description": "Detailed steps for adding your DOT Mobile eSIM on iPhone XS and later models.",
+    "url": "/support/esim-and-devices/install-esim-on-iphone",
+    "tags": [
+      "iphone",
+      "install",
+      "esim",
+      "apple",
+      "ios"
+    ]
+  },
+  {
+    "slug": "install-esim-on-android",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "How to install your eSIM on Android",
+    "description": "Generic Android eSIM installation steps for Google Pixel, OnePlus, Sony, and other Android devices.",
+    "url": "/support/esim-and-devices/install-esim-on-android",
+    "tags": [
+      "android",
+      "install",
+      "esim",
+      "pixel",
+      "google"
+    ]
+  },
+  {
+    "slug": "install-esim-on-samsung",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "How to install your eSIM on Samsung Galaxy",
+    "description": "Step-by-step eSIM setup for Samsung Galaxy S and Z series devices.",
+    "url": "/support/esim-and-devices/install-esim-on-samsung",
+    "tags": [
+      "samsung",
+      "galaxy",
+      "esim",
+      "android"
+    ]
+  },
+  {
+    "slug": "how-many-esims-can-my-device-hold",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "How many eSIMs can my device hold?",
+    "description": "Most modern devices support multiple eSIM profiles but can only have one active at a time.",
+    "url": "/support/esim-and-devices/how-many-esims-can-my-device-hold",
+    "tags": [
+      "multiple esim",
+      "device limit",
+      "esim profiles"
+    ]
+  },
+  {
+    "slug": "switching-devices",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "Switching to a new device",
+    "description": "How to move your DOT Mobile eSIM to a new phone when you upgrade your device.",
+    "url": "/support/esim-and-devices/switching-devices",
+    "tags": [
+      "new phone",
+      "switching",
+      "transfer esim",
+      "upgrade"
+    ]
+  },
+  {
+    "slug": "qr-code-expired-or-lost",
+    "category": "esim-and-devices",
+    "categoryTitle": "eSIM and Devices",
+    "title": "My QR code has expired or I cannot find it",
+    "description": "QR codes expire after 90 days. Here is how to request a new one from your account or by contacting support.",
+    "url": "/support/esim-and-devices/qr-code-expired-or-lost",
+    "tags": [
+      "qr code",
+      "expired",
+      "lost",
+      "resend"
+    ]
+  },
+  {
+    "slug": "how-billing-works",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "How billing works",
+    "description": "Your plan renews monthly on the same date. Your card is charged automatically. Here is everything you need to know.",
+    "url": "/support/plans-billing-and-payments/how-billing-works",
+    "tags": [
+      "billing",
+      "payment",
+      "invoice",
+      "renewal"
+    ]
+  },
+  {
+    "slug": "when-am-i-charged",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "When am I charged?",
+    "description": "You are charged on your renewal date each month — the same calendar date as your original activation.",
+    "url": "/support/plans-billing-and-payments/when-am-i-charged",
+    "tags": [
+      "charge",
+      "payment date",
+      "renewal"
+    ]
+  },
+  {
+    "slug": "how-to-change-your-plan",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "How to change your plan",
+    "description": "You can upgrade or downgrade your plan any time from your account. Changes take effect at your next renewal date.",
+    "url": "/support/plans-billing-and-payments/how-to-change-your-plan",
+    "tags": [
+      "change plan",
+      "upgrade",
+      "downgrade"
+    ]
+  },
+  {
+    "slug": "what-happens-when-data-runs-out",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "What happens when my data runs out?",
+    "description": "On Starter and Core, your speed drops to 1 Mbps for the rest of the billing cycle. You are never charged extra.",
+    "url": "/support/plans-billing-and-payments/what-happens-when-data-runs-out",
+    "tags": [
+      "data limit",
+      "throttle",
+      "excess data",
+      "data cap"
+    ]
+  },
+  {
+    "slug": "data-add-ons",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "Data add-ons",
+    "description": "Purchase a one-off data top-up to restore full speeds on Starter or Core plans mid-cycle.",
+    "url": "/support/plans-billing-and-payments/data-add-ons",
+    "tags": [
+      "data top-up",
+      "add-on",
+      "extra data"
+    ]
+  },
+  {
+    "slug": "how-to-cancel",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "How to cancel your subscription",
+    "description": "Cancel anytime from your account with no fees. Service stays active until the end of your current billing period.",
+    "url": "/support/plans-billing-and-payments/how-to-cancel",
+    "tags": [
+      "cancel",
+      "cancellation",
+      "end service",
+      "exit"
+    ]
+  },
+  {
+    "slug": "refunds-and-credits",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "Refunds and credits",
+    "description": "When refunds apply, how credits work, and what to do if you have been charged incorrectly.",
+    "url": "/support/plans-billing-and-payments/refunds-and-credits",
+    "tags": [
+      "refund",
+      "credit",
+      "billing error"
+    ]
+  },
+  {
+    "slug": "update-payment-method",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "Update your payment method",
+    "description": "How to change your card details from your account before your next renewal to avoid service suspension.",
+    "url": "/support/plans-billing-and-payments/update-payment-method",
+    "tags": [
+      "payment method",
+      "card",
+      "update card"
+    ]
+  },
+  {
+    "slug": "invoices-and-receipts",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "Invoices and receipts",
+    "description": "Where to find your invoices, how to download them, and what they include.",
+    "url": "/support/plans-billing-and-payments/invoices-and-receipts",
+    "tags": [
+      "invoice",
+      "receipt",
+      "tax invoice",
+      "GST"
+    ]
+  },
+  {
+    "slug": "financial-hardship",
+    "category": "plans-billing-and-payments",
+    "categoryTitle": "Plans, Billing and Payments",
+    "title": "Financial hardship support",
+    "description": "If you are struggling to pay your bill, contact us before your service is suspended. We can help.",
+    "url": "/support/plans-billing-and-payments/financial-hardship",
+    "tags": [
+      "hardship",
+      "financial difficulty",
+      "payment plan"
+    ]
+  },
+  {
+    "slug": "what-network-do-we-use",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "What network does DOT Mobile use?",
+    "description": "DOT Mobile operates on the Telstra wholesale mobile network — 4G and 5G across Australia.",
+    "url": "/support/network-coverage-and-speeds/what-network-do-we-use",
+    "tags": [
+      "network",
+      "telstra",
+      "infrastructure",
+      "wholesale"
+    ]
+  },
+  {
+    "slug": "4g-vs-5g",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "4G vs 5G — what is the difference?",
+    "description": "How 4G and 5G differ, which plans get 5G, and what to expect if 5G is not in your area.",
+    "url": "/support/network-coverage-and-speeds/4g-vs-5g",
+    "tags": [
+      "4g",
+      "5g",
+      "network generation",
+      "speed"
+    ]
+  },
+  {
+    "slug": "check-coverage-in-your-area",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "How to check coverage in your area",
+    "description": "Use the Telstra coverage checker for the most accurate coverage information at your address.",
+    "url": "/support/network-coverage-and-speeds/check-coverage-in-your-area",
+    "tags": [
+      "coverage check",
+      "coverage map",
+      "my area"
+    ]
+  },
+  {
+    "slug": "expected-speeds-by-plan",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "Expected speeds by plan",
+    "description": "Starter goes up to 100 Mbps. Core and Unlimited up to 150 Mbps. Ultra gets priority 5G access.",
+    "url": "/support/network-coverage-and-speeds/expected-speeds-by-plan",
+    "tags": [
+      "speed",
+      "mbps",
+      "download",
+      "plan speed"
+    ]
+  },
+  {
+    "slug": "what-affects-signal-quality",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "What affects signal quality?",
+    "description": "Location, device, building materials, network congestion, and distance from towers all affect your signal.",
+    "url": "/support/network-coverage-and-speeds/what-affects-signal-quality",
+    "tags": [
+      "signal",
+      "reception",
+      "interference",
+      "weak signal"
+    ]
+  },
+  {
+    "slug": "network-outages",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "Network outages",
+    "description": "What to do if there is a network outage, how we communicate outages, and what compensation may apply.",
+    "url": "/support/network-coverage-and-speeds/network-outages",
+    "tags": [
+      "outage",
+      "down",
+      "service disruption"
+    ]
+  },
+  {
+    "slug": "coverage-in-regional-areas",
+    "category": "network-coverage-and-speeds",
+    "categoryTitle": "Network, Coverage and Speeds",
+    "title": "Coverage in regional and remote areas",
+    "description": "Telstra wholesale coverage reaches most of regional Australia. Here is what to expect outside metro areas.",
+    "url": "/support/network-coverage-and-speeds/coverage-in-regional-areas",
+    "tags": [
+      "regional",
+      "rural",
+      "remote",
+      "outback",
+      "FIFO"
+    ]
+  },
+  {
+    "slug": "no-signal",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "No signal or service",
+    "description": "Step-by-step guide to diagnosing and fixing no signal on your DOT Mobile service.",
+    "url": "/support/troubleshooting-and-service-recovery/no-signal",
+    "tags": [
+      "no signal",
+      "no service",
+      "offline",
+      "dead zone"
+    ]
+  },
+  {
+    "slug": "cant-make-calls",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "Cannot make or receive calls",
+    "description": "Troubleshoot why calls are not working on your DOT Mobile service.",
+    "url": "/support/troubleshooting-and-service-recovery/cant-make-calls",
+    "tags": [
+      "calls",
+      "not working",
+      "phone calls",
+      "no audio"
+    ]
+  },
+  {
+    "slug": "cant-send-sms",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "Cannot send or receive SMS",
+    "description": "Fix SMS delivery failures on DOT Mobile.",
+    "url": "/support/troubleshooting-and-service-recovery/cant-send-sms",
+    "tags": [
+      "sms",
+      "text",
+      "messages",
+      "not sending"
+    ]
+  },
+  {
+    "slug": "slow-data",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "Slow data or internet connection",
+    "description": "Why your data might be slow and steps to improve speed on your DOT Mobile plan.",
+    "url": "/support/troubleshooting-and-service-recovery/slow-data",
+    "tags": [
+      "slow",
+      "data speed",
+      "internet slow",
+      "throttled"
+    ]
+  },
+  {
+    "slug": "esim-not-activating",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "My eSIM is not activating",
+    "description": "If your eSIM QR code scan is not working, follow these steps to resolve it.",
+    "url": "/support/troubleshooting-and-service-recovery/esim-not-activating",
+    "tags": [
+      "esim not working",
+      "activation failed",
+      "qr code",
+      "install error"
+    ]
+  },
+  {
+    "slug": "esim-showing-no-service",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "eSIM installed but showing no service",
+    "description": "Your eSIM is installed but your phone shows no service. Here is how to fix it.",
+    "url": "/support/troubleshooting-and-service-recovery/esim-showing-no-service",
+    "tags": [
+      "no service",
+      "esim installed",
+      "not connecting"
+    ]
+  },
+  {
+    "slug": "resend-qr-code",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "Resend my eSIM QR code",
+    "description": "How to resend your eSIM activation email and QR code from your account.",
+    "url": "/support/troubleshooting-and-service-recovery/resend-qr-code",
+    "tags": [
+      "resend",
+      "qr code",
+      "email",
+      "activation code"
+    ]
+  },
+  {
+    "slug": "number-port-delayed",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "My number port is taking longer than expected",
+    "description": "Port delays are usually caused by your previous provider. Here is what to do and what to expect.",
+    "url": "/support/troubleshooting-and-service-recovery/number-port-delayed",
+    "tags": [
+      "port delay",
+      "number transfer",
+      "slow port"
+    ]
+  },
+  {
+    "slug": "account-suspended",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "My account has been suspended",
+    "description": "Accounts are suspended for non-payment or policy breaches. Here is how to reactivate your service.",
+    "url": "/support/troubleshooting-and-service-recovery/account-suspended",
+    "tags": [
+      "suspended",
+      "account locked",
+      "no access"
+    ]
+  },
+  {
+    "slug": "payment-failed",
+    "category": "troubleshooting-and-service-recovery",
+    "categoryTitle": "Troubleshooting and Service Recovery",
+    "title": "My payment failed",
+    "description": "What happens when a payment fails and how to update your details to restore your service.",
+    "url": "/support/troubleshooting-and-service-recovery/payment-failed",
+    "tags": [
+      "payment failed",
+      "declined",
+      "card error"
+    ]
+  },
+  {
+    "slug": "scam-messages-and-phishing",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "Scam messages and phishing",
+    "description": "How to identify scam SMS and emails pretending to be from DOT Mobile, and what to do if you receive one.",
+    "url": "/support/security-fraud-and-scam-protection/scam-messages-and-phishing",
+    "tags": [
+      "scam",
+      "phishing",
+      "fake sms",
+      "fraud"
+    ]
+  },
+  {
+    "slug": "suspicious-dot-mobile-messages",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "Suspicious messages claiming to be from DOT Mobile",
+    "description": "DOT Mobile will never ask for your password or payment details via SMS. Here is how to tell real from fake.",
+    "url": "/support/security-fraud-and-scam-protection/suspicious-dot-mobile-messages",
+    "tags": [
+      "fake message",
+      "impersonation",
+      "scam sms"
+    ]
+  },
+  {
+    "slug": "account-security",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "Account security best practices",
+    "description": "How to keep your DOT Mobile account secure, including strong passwords, 2FA, and suspicious activity.",
+    "url": "/support/security-fraud-and-scam-protection/account-security",
+    "tags": [
+      "security",
+      "password",
+      "2FA",
+      "account protection"
+    ]
+  },
+  {
+    "slug": "sim-swap-fraud",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "SIM swap fraud",
+    "description": "What SIM swap fraud is, how we protect against it, and what to do if you suspect your number has been stolen.",
+    "url": "/support/security-fraud-and-scam-protection/sim-swap-fraud",
+    "tags": [
+      "sim swap",
+      "number hijack",
+      "account takeover"
+    ]
+  },
+  {
+    "slug": "report-fraud",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "How to report fraud",
+    "description": "Steps to report suspected fraud to DOT Mobile, Australian authorities, and Scamwatch.",
+    "url": "/support/security-fraud-and-scam-protection/report-fraud",
+    "tags": [
+      "report",
+      "fraud",
+      "scamwatch",
+      "police"
+    ]
+  },
+  {
+    "slug": "two-factor-authentication",
+    "category": "security-fraud-and-scam-protection",
+    "categoryTitle": "Security, Fraud and Scam Protection",
+    "title": "Two-factor authentication (2FA)",
+    "description": "How to enable 2FA on your DOT Mobile account and why it is the single most effective account security measure.",
+    "url": "/support/security-fraud-and-scam-protection/two-factor-authentication",
+    "tags": [
+      "2FA",
+      "two factor",
+      "MFA",
+      "authenticator"
+    ]
+  },
+  {
+    "slug": "how-roaming-works",
+    "category": "international-roaming-and-add-ons",
+    "categoryTitle": "International Roaming and Add-ons",
+    "title": "How roaming works",
+    "description": "International roaming on DOT Mobile is available as an optional add-on on Unlimited and Ultra plans.",
+    "url": "/support/international-roaming-and-add-ons/how-roaming-works",
+    "tags": [
+      "roaming",
+      "international",
+      "travel",
+      "overseas"
+    ]
+  },
+  {
+    "slug": "roaming-countries",
+    "category": "international-roaming-and-add-ons",
+    "categoryTitle": "International Roaming and Add-ons",
+    "title": "Supported roaming countries",
+    "description": "A list of countries where DOT Mobile international roaming add-ons are available.",
+    "url": "/support/international-roaming-and-add-ons/roaming-countries",
+    "tags": [
+      "roaming countries",
+      "destinations",
+      "travel countries"
+    ]
+  },
+  {
+    "slug": "enable-roaming",
+    "category": "international-roaming-and-add-ons",
+    "categoryTitle": "International Roaming and Add-ons",
+    "title": "How to enable roaming",
+    "description": "How to purchase and activate a DOT Mobile international roaming add-on before you travel.",
+    "url": "/support/international-roaming-and-add-ons/enable-roaming",
+    "tags": [
+      "enable roaming",
+      "activate roaming",
+      "travel"
+    ]
+  },
+  {
+    "slug": "international-calling",
+    "category": "international-roaming-and-add-ons",
+    "categoryTitle": "International Roaming and Add-ons",
+    "title": "International calling",
+    "description": "How to call international numbers from Australia on DOT Mobile, and available international calling add-ons.",
+    "url": "/support/international-roaming-and-add-ons/international-calling",
+    "tags": [
+      "international calls",
+      "overseas calls",
+      "IDD"
+    ]
+  },
+  {
+    "slug": "data-add-ons-roaming",
+    "category": "international-roaming-and-add-ons",
+    "categoryTitle": "International Roaming and Add-ons",
+    "title": "Data add-ons for travel",
+    "description": "Purchase roaming data packs for use in supported international destinations.",
+    "url": "/support/international-roaming-and-add-ons/data-add-ons-roaming",
+    "tags": [
+      "data pack",
+      "roaming data",
+      "travel data"
+    ]
+  },
+  {
+    "slug": "privacy-policy-explained",
+    "category": "legal-privacy-and-compliance",
+    "categoryTitle": "Legal, Privacy and Compliance",
+    "title": "Our Privacy Policy — plain language summary",
+    "description": "A plain-language summary of what data DOT Mobile collects, how we use it, and your rights.",
+    "url": "/support/legal-privacy-and-compliance/privacy-policy-explained",
+    "tags": [
+      "privacy",
+      "data",
+      "personal information",
+      "policy"
+    ]
+  },
+  {
+    "slug": "how-we-store-your-data",
+    "category": "legal-privacy-and-compliance",
+    "categoryTitle": "Legal, Privacy and Compliance",
+    "title": "How we store and protect your data",
+    "description": "DOT Mobile uses encryption in transit and at rest. Here is exactly how your data is protected.",
+    "url": "/support/legal-privacy-and-compliance/how-we-store-your-data",
+    "tags": [
+      "data storage",
+      "security",
+      "encryption",
+      "GDPR",
+      "privacy"
+    ]
+  },
+  {
+    "slug": "tio-and-complaints-process",
+    "category": "legal-privacy-and-compliance",
+    "categoryTitle": "Legal, Privacy and Compliance",
+    "title": "The TIO and our complaints process",
+    "description": "If DOT Mobile cannot resolve your complaint, you can escalate to the Telecommunications Industry Ombudsman for free.",
+    "url": "/support/legal-privacy-and-compliance/tio-and-complaints-process",
+    "tags": [
+      "TIO",
+      "ombudsman",
+      "complaints",
+      "escalation"
+    ]
+  },
+  {
+    "slug": "your-rights-as-a-customer",
+    "category": "legal-privacy-and-compliance",
+    "categoryTitle": "Legal, Privacy and Compliance",
+    "title": "Your rights as a DOT Mobile customer",
+    "description": "Australian Consumer Law and the TCP Code give you important rights as a telecommunications customer.",
+    "url": "/support/legal-privacy-and-compliance/your-rights-as-a-customer",
+    "tags": [
+      "rights",
+      "consumer law",
+      "TCP Code",
+      "ACMA"
+    ]
+  },
+  {
+    "slug": "making-a-complaint",
+    "category": "legal-privacy-and-compliance",
+    "categoryTitle": "Legal, Privacy and Compliance",
+    "title": "How to make a complaint",
+    "description": "How to submit a formal complaint to DOT Mobile, what to expect, and how to escalate if needed.",
+    "url": "/support/legal-privacy-and-compliance/making-a-complaint",
+    "tags": [
+      "complaint",
+      "formal complaint",
+      "dispute",
+      "resolve"
+    ]
+  }
+]
